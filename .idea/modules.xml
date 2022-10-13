@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/E-Commerce-App-Automation/E-Commerce-App-Automation-Testing-main/EcommerceAppAutomation/EcommerceAppAutomation.iml" filepath="$PROJECT_DIR$/E-Commerce-App-Automation/E-Commerce-App-Automation-Testing-main/EcommerceAppAutomation/EcommerceAppAutomation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/app-automation.iml" filepath="$PROJECT_DIR$/.idea/app-automation.iml" />
+    </modules>
+  </component>
+</project>
